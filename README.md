@@ -5,5 +5,6 @@
 4. LCS
 5. MatrixChainMultiplication
 6. Mergesort
+7. NaiveSearch
 
 
