@@ -7,6 +7,7 @@
 6. Mergesort
 7. NaiveSearch
 8. Radix
-9. KARUSKAL
+9. Karuskal
+10. quicksort
 
 
