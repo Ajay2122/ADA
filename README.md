@@ -6,5 +6,7 @@
 5. MatrixChainMultiplication
 6. Mergesort
 7. NaiveSearch
+8. Radix
+9. KARUSKAL
 
 
